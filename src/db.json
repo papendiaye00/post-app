@@ -1,0 +1,22 @@
+{
+  "utilisateurs": [
+    {
+      "nomUtilisateur": "meedb",
+      "mailUtilisateur": "meedb@email.com",
+      "motDePasse": "meedb@email.com",
+      "motDePasseConfirmation": "meedb@email.com",
+      "id": 1
+    }
+  ],
+  "publications": [
+    {
+      "textePublication": "HELLOOOOOOOOOOOOOOOO",
+      "imagePublication": "https://img.freepik.com/photos-gratuite/coup-moyen-homme-posant-fond-graduation_23-2150319967.jpg?w=740&t=st=1699995737~exp=1699996337~hmac=c6599fcf19aad32e3ddf136f8fd5f3b31affd9844a22f77275d8fd0a26928940",
+      "idUtilisateur": 2,
+      "datePublication": "2023-11-14T22:39:15.188Z",
+      "likePublication": 0,
+      "auteur": "meedba",
+      "id": 1
+    }
+  ]
+}
